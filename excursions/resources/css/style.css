@@ -5,7 +5,7 @@ h1 {
   text-align: center;
 }
 
-h3{
+h3.link {
   font-family: Verdana;
   color: Aquamarine;
   font-size: 16 px;
@@ -13,5 +13,28 @@ h3{
 }
 body {
   background-color: black;
+  text-align: center;
+}
 
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+  color: white;
+}
+
+h4 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+
+p {
+  text-align: right;
+  color: gray;
+  font-weight: normal;
+  font-family: verdana;
+  font-size: 20px
 }
